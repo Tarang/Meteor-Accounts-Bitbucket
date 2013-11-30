@@ -1,0 +1,10 @@
+{
+  "name": "accounts-bitbucket",
+  "description": "Accounts Bitbucket - adds support for Bitbucket",
+  "homepage": "https://github.com/tarangp/meteor-accounts-bitbucket",
+  "author": "Akshat Khatri",
+  "version": "0.1.0",
+  "git": "https://github.com/tarangp/meteor-accounts-bitbucket",
+  "packages": {
+  }
+}
